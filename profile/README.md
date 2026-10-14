@@ -6,10 +6,17 @@ Aquí publicamos nuestros **cursos abiertos de programación**: completos, gratu
 
 ## Por dónde empezar
 
-| Si… | Empieza por |
-|---|---|
-| nunca has programado | [Fundamentos web](https://github.com/HabilMX/curso-web): HTML, CSS y JavaScript, sin librerías · [Python desde cero](https://github.com/HabilMX/curso-python) |
-| ya programas | [Go](https://github.com/HabilMX/curso-go) · [Rust](https://github.com/HabilMX/curso-rust), el segundo paso después de Go · [TypeScript](https://github.com/HabilMX/curso-typescript) · [Java 25](https://github.com/HabilMX/curso-java) |
+**Si nunca has programado**
+
+- **[Fundamentos web](https://github.com/HabilMX/curso-web)** — HTML, CSS y JavaScript, sin librerías.
+- **[Python](https://github.com/HabilMX/curso-python)** — desde cero, hasta un programa completo con pruebas.
+
+**Si ya programas**
+
+- **[Go](https://github.com/HabilMX/curso-go)** — aprender a ver los errores que no se ven.
+- **[Rust](https://github.com/HabilMX/curso-rust)** — el segundo paso después de Go: de quién es cada dato.
+- **[TypeScript](https://github.com/HabilMX/curso-typescript)** — qué protegen los tipos y cómo validar lo que llega de fuera.
+- **[Java 25](https://github.com/HabilMX/curso-java)** — el Java de hoy: tipos, pruebas y concurrencia.
 
 Cada curso explica el porqué antes del cómo, muestra el error que vas a ver antes de que lo veas y cierra con ejercicios resueltos. Su código se verifica automáticamente en cada cambio.
 
